@@ -1,0 +1,27 @@
+{
+  "channels": [
+    {
+      "id": "1",
+      "name": "Telefe",
+      "category": "Generalista",
+      "logo": "https://tuservidor.com",
+      "url": "https://telefe.com"
+    },
+    {
+      "id": "2",
+      "name": "C5N",
+      "category": "Noticias",
+      "logo": "https://tuservidor.com",
+      "url": "https://live.net"
+    }
+  ],
+  "movies": [
+    {
+      "id": "101",
+      "title": "Big Buck Bunny",
+      "year": "2008",
+      "poster": "https://wikimedia.org",
+      "url": "https://googleapis.com"
+    }
+  ]
+}
