@@ -22,11 +22,123 @@
       "url": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
     },
     {
-      "id": "telefe_vivo",
-      "name": "Telefe En Vivo",
+      "id": "telefe_1",
+      "name": "Telefe 1 (Token)",
       "category": "Televisión",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/37981e81-b8bb-4381-a5fa-e2b6d0f38c8e:CHS/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?aid=69dfb44d09ecc98dc876969f&uid=jaWYGTYZuFcgHrUa4OvJ87GSVPghZH2E&sid=jULarvAzGsmpbpX8uDjf2IebvrmBx4QH&pid=2ERTfay6Zp1WsCMoqN1Py2z3YV2sykgD&pid_dvr=DOLT9qDVSumvBejdIbOEPK8QcFnwDjNp&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=VpvuZNakTa5V1AEYJQk4mkFf2EYfZdu35k5lrVfccQZ3RhwY8frdbDioPsDai42sVFtVEb6NXBg&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D1400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222ERTfay6Zp1WsCMoqN1Py2z3YV2sykgD%22&adInsertionGoogleStreamId=37981e81-b8bb-4381-a5fa-e2b6d0f38c8e%3ACHS&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1792606290003&ot=fQH8MpHvgHl51anULJAuTw&proto=https&pz=us"
+    },
+    {
+      "id": "telefe_2",
+      "name": "Telefe 2 (Alternativo)",
+      "category": "Argentina - Aire",
+      "logo": "https://i.imgur.com/wrZfMXn.png",
+      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg TV",
+      "category": "Noticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bloomberg_Television_logo.svg",
+      "url": "https://bloomberg.com/media-manifest/streams/etf-us.m3u8"
+    },
+    {
+      "id": "tve_24h",
+      "name": "Canal 24 Horas (TVE)",
+      "category": "Noticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal_24_Horas_%28España%29_logo_2008.svg",
+      "url": "https://rtve-live.edgesuite.net/tve/24h/index.m3u8"
+    },
+    {
+      "id": "dw_english",
+      "name": "DW English HD",
+      "category": "Noticias",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DW_Logo_2019.svg",
+      "url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@129856/master.m3u8"
+    },
+    {
+      "id": "aunar",
+      "name": "Aunar",
+      "category": "Argentina - Variedades",
+      "logo": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png",
+      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8"
+    },
+    {
+      "id": "cinear",
+      "name": "Cine.AR",
+      "category": "Argentina - Cine",
+      "logo": "https://i.imgur.com/RPLyrIC.png",
+      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
+    },
+    {
+      "id": "tectv",
+      "name": "Tec TV",
+      "category": "Argentina - Ciencia",
+      "logo": "https://i.imgur.com/EGCq1wc.png",
+      "url": "https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8"
+    },
+    {
+      "id": "deportv",
+      "name": "DeporTV",
+      "category": "Argentina - Deportes",
+      "logo": "https://i.imgur.com/iyYLNRt.png",
+      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
+    },
+    {
+      "id": "canal26",
+      "name": "Canal 26",
+      "category": "Argentina - Noticias",
+      "logo": "https://i.imgur.com/5pAaVih.png",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+    },
+    {
+      "id": "perfiltv",
+      "name": "+Perfil",
+      "category": "Argentina - Noticias",
+      "logo": "https://i.imgur.com/3wZdPwN.png",
+      "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8"
+    },
+    {
+      "id": "telemax",
+      "name": "Telemax",
+      "category": "Argentina - Música",
+      "logo": "https://i.imgur.com/gfX0hdB.png",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+    },
+    {
+      "id": "nettv",
+      "name": "Net TV",
+      "category": "Argentina - Entretenimiento",
+      "logo": "https://i.imgur.com/EWmshtx.png",
+      "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
+    },
+    {
+      "id": "tvuniversidad",
+      "name": "TV Universidad",
+      "category": "Argentina - Universitario",
+      "logo": "https://i.imgur.com/tvLHiAT.png",
+      "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+    },
+    {
+      "id": "eltrece",
+      "name": "El Trece",
+      "category": "Argentina - Aire",
+      "logo": "https://i.imgur.com/ZK7AQFg.png",
+      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+    },
+    {
+      "id": "elnuove",
+      "name": "El Nueve",
+      "category": "Argentina - Aire",
+      "logo": "https://i.imgur.com/EtcVSm4.png",
+      "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8"
+    },
+    {
+      "id": "america",
+      "name": "América",
+      "category": "Argentina - Aire",
+      "logo": "https://i.imgur.com/Jt7dOQm.png",
+      "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
     }
   ],
   "movies": [
@@ -45,6 +157,22 @@
       "poster": "https://peach.blender.org/wp-content/uploads/title-smaller.jpg",
       "backdrop": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
       "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "id": "103",
+      "title": "Sintel",
+      "year": "2010",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg",
+      "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    {
+      "id": "104",
+      "title": "Caminandes: Llama Drama",
+      "year": "2013",
+      "poster": "https://peach.blender.org/wp-content/uploads/caminandes_teaser-520x293.jpg",
+      "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/CaminandesLlamaDrama.mp4"
     }
   ]
 }
