@@ -20,6 +20,13 @@
       "category": "Noticias",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/France_24_logo.svg",
       "url": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
+    },
+    {
+      "id": "telefe_vivo",
+      "name": "Telefe En Vivo",
+      "category": "Televisión",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/37981e81-b8bb-4381-a5fa-e2b6d0f38c8e:CHS/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?aid=69dfb44d09ecc98dc876969f&uid=jaWYGTYZuFcgHrUa4OvJ87GSVPghZH2E&sid=jULarvAzGsmpbpX8uDjf2IebvrmBx4QH&pid=2ERTfay6Zp1WsCMoqN1Py2z3YV2sykgD&pid_dvr=DOLT9qDVSumvBejdIbOEPK8QcFnwDjNp&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=VpvuZNakTa5V1AEYJQk4mkFf2EYfZdu35k5lrVfccQZ3RhwY8frdbDioPsDai42sVFtVEb6NXBg&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D1400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222ERTfay6Zp1WsCMoqN1Py2z3YV2sykgD%22&adInsertionGoogleStreamId=37981e81-b8bb-4381-a5fa-e2b6d0f38c8e%3ACHS&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1792606290003&ot=fQH8MpHvgHl51anULJAuTw&proto=https&pz=us"
     }
   ],
   "movies": [
