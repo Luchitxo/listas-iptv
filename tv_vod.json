@@ -896,46 +896,4 @@
       "url": "https://videohd.live:19360/8010/8010.m3u8"
     }
   ],
-  "movies": [
-    {
-      "id": "101",
-      "title": "Big Buck Bunny (Prueba Oficial HLS)",
-      "year": "2008",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
-      "backdrop": "https://images.unsplash.com/photo-1536440136628-849c177e76a1",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "id": "102",
-      "title": "Tears of Steel (Blender Foundation)",
-      "year": "2012",
-      "poster": "https://peach.blender.org/wp-content/uploads/title-smaller.jpg",
-      "backdrop": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-    },
-    {
-      "id": "103",
-      "title": "Sintel (Animación)",
-      "year": "2010",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg",
-      "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-    },
-    {
-      "id": "104",
-      "title": "Caminandes: Llama Drama",
-      "year": "2013",
-      "poster": "https://peach.blender.org/wp-content/uploads/caminandes_teaser-520x293.jpg",
-      "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/CaminandesLlamaDrama.mp4"
-    },
-    {
-      "id": "105",
-      "title": "Transformers the last knight",
-      "year": "2017",
-      "poster": "https://image.tmdb.org/t/p/w500/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
-      "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
-      "url": "http://tecnotv.club/q7sz/phpcode/peliculas.php?c=144.217.70.79/VODS-M/1080P/Transformers%20the%20last%20knight%202017.mkv&token=tecnotokenplustv230516F&f=.m3u8"
-    }
-  ]
 }
