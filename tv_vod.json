@@ -3,7 +3,7 @@
     {
       "id": "telefe_vivo",
       "name": "Telefe En Vivo",
-      "category": "Noticias 🇦🇷",
+      "category": "Canales de Aire 🇦🇷",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/8bf15282-7723-4991-8251-c8a07ca7066c:ATL/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?aid=69dfb44d09ecc98dc876969f&uid=EMFVZ8fUUksOyHY4nND3araduM0MhKxo&sid=OdlREQDEeTRmVTOFqX5VbWsM8ZIO5gA3&pid=OnofNKMxggHljXkAxtRQe3aeOgXh7EWv&pid_dvr=aRWZQGDnRq1uLgkQbYQc8ntJnhcx1Rom&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=tbiy23GRmImBQeDVf2kYtqyaOsP5KbeR8yo9vS3Fcvxkt5adt95cz3BNFNn7ZdbgujReF2jIS8Q&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D11100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22OnofNKMxggHljXkAxtRQe3aeOgXh7EWv%22&adInsertionGoogleStreamId=8bf15282-7723-4991-8251-c8a07ca7066c%3AATL&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1792677112263&ot=ZQ4vRZBZwzHsHH46RiCB2A&proto=https&pz=us",
       "headers": {
@@ -15,9 +15,83 @@
     {
       "id": "telefe_2",
       "name": "Telefe 2 (Alternativo)",
-      "category": "Noticias 🇦🇷",
+      "category": "Canales de Aire 🇦🇷",
       "logo": "https://i.imgur.com/wrZfMXn.png",
       "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
+    },
+    {
+      "id": "america_tv",
+      "name": "América TV",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
+      "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8"
+    },
+    {
+      "id": "america_tv_hd",
+      "name": "América TV HD",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a041/index.m3u8"
+    },
+    {
+      "id": "eltrece",
+      "name": "El Trece",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://vodgc.net"
+      }
+    },
+    {
+      "id": "el_nueve",
+      "name": "El Nueve",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/elnueve/index.m3u8"
+    },
+    {
+      "id": "tv_publica",
+      "name": "TV Pública",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png",
+      "url": "http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8"
+    },
+    {
+      "id": "net_tv",
+      "name": "Net TV",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true",
+      "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+    },
+    {
+      "id": "eltres_tv",
+      "name": "El Tres TV",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://tvlogo.org/argentina/eltres-tv-ar.png",
+      "url": "https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8"
+    },
+    {
+      "id": "rts",
+      "name": "RTS",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://rtsmedios.com.ar/wp-content/uploads/2025/01/logo_rtsw.png",
+      "url": "https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8"
+    },
+    {
+      "id": "prueba_13max",
+      "name": "13 Max",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://i.imgur.com/VuvGm3s.png",
+      "url": "http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8"
+    },
+    {
+      "id": "prueba_cpetv",
+      "name": "CPEtv",
+      "category": "Canales de Aire 🇦🇷",
+      "logo": "https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",
+      "url": "https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
     },
     {
       "id": "tn",
@@ -61,139 +135,9 @@
     {
       "id": "prueba_diario26",
       "name": "Diario 26",
-      "category": "Noticias 🇦🇷 2",
+      "category": "Noticias 🇦🇷",
       "logo": "https://graph.facebook.com/canal26/picture?width=200&height=200",
       "url": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"
-    },
-    {
-      "id": "america_tv",
-      "name": "América TV",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
-      "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8"
-    },
-    {
-      "id": "tv_publica",
-      "name": "TV Pública",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png",
-      "url": "http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8"
-    },
-    {
-      "id": "eltrece",
-      "name": "El Trece",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true",
-      "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://vodgc.net"
-      }
-    },
-    {
-      "id": "eltres_tv",
-      "name": "El Tres TV",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://tvlogo.org/argentina/eltres-tv-ar.png",
-      "url": "https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8"
-    },
-    {
-      "id": "rts",
-      "name": "RTS",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://rtsmedios.com.ar/wp-content/uploads/2025/01/logo_rtsw.png",
-      "url": "https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8"
-    },
-    {
-      "id": "el_nueve",
-      "name": "El Nueve",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true",
-      "url": "http://181.209.105.115:2525/play/elnueve/index.m3u8"
-    },
-    {
-      "id": "net_tv",
-      "name": "Net TV",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true",
-      "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
-    },
-    {
-      "id": "encuentro",
-      "name": "Encuentro",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/encuentro"
-    },
-    {
-      "id": "ciudad_magazine",
-      "name": "Ciudad Magazine",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/ciudad_magazine"
-    },
-    {
-      "id": "volver",
-      "name": "Volver",
-      "category": "Argentina 🇦🇷",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/volver"
-    },
-    {
-      "id": "america_tv_hd",
-      "name": "América TV HD",
-      "category": "Argentina 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a041/index.m3u8"
-    },
-    {
-      "id": "prueba_gentv",
-      "name": "GEN TV",
-      "category": "Argentina 🇦🇷 2",
-      "logo": "https://graph.facebook.com/gentvoficial/picture?width=200&height=200",
-      "url": "https://videohd.live:19360/8010/8010.m3u8"
-    },
-    {
-      "id": "prueba_13max",
-      "name": "13 Max",
-      "category": "Argentina 🇦🇷 2",
-      "logo": "https://i.imgur.com/VuvGm3s.png",
-      "url": "http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8"
-    },
-    {
-      "id": "prueba_cpetv",
-      "name": "CPEtv",
-      "category": "Argentina 🇦🇷 2",
-      "logo": "https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",
-      "url": "https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
-    },
-    {
-      "id": "espn_1",
-      "name": "ESPN 1",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
-      "url": "http://195.178.110.110/espn/index.m3u8"
-    },
-    {
-      "id": "espn_2",
-      "name": "ESPN 2",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
-      "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8"
-    },
-    {
-      "id": "espn_3",
-      "name": "ESPN 3",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/espn_3_hd"
-    },
-    {
-      "id": "espn_4",
-      "name": "ESPN 4",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/espn_4_hd"
     },
     {
       "id": "espn_premium",
@@ -203,6 +147,20 @@
       "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8"
     },
     {
+      "id": "espn_premium_hd",
+      "name": "ESPN Premium HD",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05n/index.m3u8"
+    },
+    {
+      "id": "espn_premium_hd_alt",
+      "name": "ESPN Premium HD (Alt)",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04k/index.m3u8"
+    },
+    {
       "id": "tnt_sports",
       "name": "TNT Sports Premium",
       "category": "Deportes 🇦🇷",
@@ -210,46 +168,18 @@
       "url": "http://181.209.105.115:2525/play/tntsports/index.m3u8"
     },
     {
-      "id": "dsports_1",
-      "name": "DSports 1",
+      "id": "tnt_sports_hd",
+      "name": "TNT Sports HD",
       "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/dsports_hd"
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05d/index.m3u8"
     },
     {
-      "id": "dsports_2",
-      "name": "DSports 2",
+      "id": "tnt_sports_premium_hd",
+      "name": "TNT Sports Premium HD",
       "category": "Deportes 🇦🇷",
-      "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
-      "url": "http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8"
-    },
-    {
-      "id": "dsports_plus",
-      "name": "DSports +",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true",
-      "url": "http://195.178.110.110/dsportsplus/index.m3u8"
-    },
-    {
-      "id": "fox_sports",
-      "name": "Fox Sports",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/fox_sports_hd"
-    },
-    {
-      "id": "fox_sports_2",
-      "name": "Fox Sports 2",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
-      "url": "http://45.188.229.33:8000/play/a1ae/index.m3u8?hls"
-    },
-    {
-      "id": "fox_sports_3",
-      "name": "Fox Sports 3",
-      "category": "Deportes 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
-      "url": "http://138.59.227.20:8000/play/a06y/index.m3u8?hls"
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05j/index.m3u8"
     },
     {
       "id": "tyc_sports",
@@ -257,6 +187,13 @@
       "category": "Deportes 🇦🇷",
       "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true",
       "url": "http://38.44.109.41:8003/play/a02l/index.m3u8"
+    },
+    {
+      "id": "tyc_sports_hd",
+      "name": "TyC Sports HD",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05e/index.m3u8"
     },
     {
       "id": "deportv",
@@ -267,640 +204,696 @@
     },
     {
       "id": "dsports_1_ar",
-      "name": "DSports 1 HD",
-      "category": "Deportes 🇦🇷 2",
+      "name": "DSports 1 HD (Feed Argentina)",
+      "category": "Deportes 🇦🇷",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a045/index.m3u8"
     },
     {
       "id": "dsports_2_ar",
-      "name": "DSports 2 HD",
-      "category": "Deportes 🇦🇷 2",
+      "name": "DSports 2 HD (Feed Argentina)",
+      "category": "Deportes 🇦🇷",
       "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
       "url": "http://200.123.40.1:8000/play/a046/index.m3u8"
     },
     {
+      "id": "espn_1",
+      "name": "ESPN 1",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
+      "url": "http://195.178.110.110/espn/index.m3u8"
+    },
+    {
       "id": "espn_1_hd",
       "name": "ESPN 1 HD",
-      "category": "Deportes 🇦🇷 2",
+      "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04g/index.m3u8"
     },
     {
-      "id": "espn_2_hd",
-      "name": "ESPN 2 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04h/index.m3u8"
-    },
-    {
-      "id": "espn_3_hd",
-      "name": "ESPN 3 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04i/index.m3u8"
-    },
-    {
-      "id": "espn_4_hd",
-      "name": "ESPN 4 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-4-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04j/index.m3u8"
-    },
-    {
       "id": "espn_hd",
       "name": "ESPN HD",
-      "category": "Deportes 🇦🇷 2",
+      "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05o/index.m3u8"
     },
     {
-      "id": "espn_premium_hd",
-      "name": "ESPN Premium HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05n/index.m3u8"
+      "id": "espn_2",
+      "name": "ESPN 2",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8"
     },
     {
-      "id": "espn_premium_hd_alt",
-      "name": "ESPN Premium HD (Alt)",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04k/index.m3u8"
+      "id": "espn_2_hd",
+      "name": "ESPN 2 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04h/index.m3u8"
     },
     {
-      "id": "fox_sports_1_hd",
-      "name": "Fox Sports 1 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04q/index.m3u8"
+      "id": "espn_3",
+      "name": "ESPN 3",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/espn_3_hd"
     },
     {
-      "id": "fox_sports_2_hd",
-      "name": "Fox Sports 2 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04r/index.m3u8"
+      "id": "espn_3_hd",
+      "name": "ESPN 3 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04i/index.m3u8"
     },
     {
-      "id": "fox_sports_3_hd",
-      "name": "Fox Sports 3 HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04s/index.m3u8"
+      "id": "espn_4",
+      "name": "ESPN 4",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/espn_4_hd"
     },
     {
-      "id": "tnt_sports_hd",
-      "name": "TNT Sports HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05d/index.m3u8"
-    },
-    {
-      "id": "tnt_sports_premium_hd",
-      "name": "TNT Sports Premium HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05j/index.m3u8"
-    },
-    {
-      "id": "tyc_sports_hd",
-      "name": "TyC Sports HD",
-      "category": "Deportes 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05e/index.m3u8"
+      "id": "espn_4_hd",
+      "name": "ESPN 4 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-4-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04j/index.m3u8"
     },
     {
       "id": "espn_5",
       "name": "ESPN 5",
-      "category": "Deportes 🌎",
+      "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true",
       "url": "http://191.97.49.82:8001/play/a002/index.m3u8"
     },
     {
       "id": "espn_6",
       "name": "ESPN 6",
-      "category": "Deportes 🌎",
+      "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true",
       "url": "http://190.61.42.218:9000/play/a062/index.m3u8"
     },
     {
-      "id": "espn_7",
-      "name": "ESPN 7",
-      "category": "Deportes 🌎",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true",
-      "url": "http://181.78.12.119:16123/play/ch20/index.m3u8"
-    },
-    {
       "id": "espn_6_hd",
       "name": "ESPN 6 HD",
-      "category": "Deportes 🌎 2",
+      "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a0am/index.m3u8"
     },
     {
-      "id": "garage_tv",
-      "name": "Garage TV",
-      "category": "Automovilismo 🇦🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true",
-      "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+      "id": "espn_7",
+      "name": "ESPN 7",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true",
+      "url": "http://181.78.12.119:16123/play/ch20/index.m3u8"
     },
     {
-      "id": "el_gourmet",
-      "name": "El Gourmet",
-      "category": "Cocina 🇦🇷",
-      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true",
-      "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+      "id": "dsports_1",
+      "name": "DSports 1",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/dsports_hd"
     },
     {
-      "id": "el_gourmet_hd",
-      "name": "El Gourmet HD",
-      "category": "Cocina 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-gourmet-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0ao/index.m3u8"
+      "id": "dsports_2",
+      "name": "DSports 2",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
+      "url": "http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8"
     },
     {
-      "id": "ae_hd",
-      "name": "A&E HD",
-      "category": "Variedades / Culto 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ae-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a03y/index.m3u8"
+      "id": "dsports_plus",
+      "name": "DSports +",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true",
+      "url": "http://195.178.110.110/dsportsplus/index.m3u8"
     },
     {
-      "id": "amc_hd",
-      "name": "AMC HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0at/index.m3u8"
+      "id": "fox_sports",
+      "name": "Fox Sports",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/fox_sports_hd"
     },
     {
-      "id": "amc_series_hd",
-      "name": "AMC Series HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-series-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a03z/index.m3u8"
+      "id": "fox_sports_1_hd",
+      "name": "Fox Sports 1 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04q/index.m3u8"
     },
     {
-      "id": "animal_planet_hd",
-      "name": "Animal Planet HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05p/index.m3u8"
+      "id": "fox_sports_2",
+      "name": "Fox Sports 2",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
+      "url": "http://45.188.229.33:8000/play/a1ae/index.m3u8?hls"
     },
     {
-      "id": "atres_series_hd",
-      "name": "Atres Series HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/atreseries-es.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0ar/index.m3u8"
+      "id": "fox_sports_2_hd",
+      "name": "Fox Sports 2 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04r/index.m3u8"
     },
     {
-      "id": "cowboy",
-      "name": "COWBOY",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CW",
-      "url": "http://200.123.40.1:8000/play/a05w/index.m3u8"
+      "id": "fox_sports_3",
+      "name": "Fox Sports 3",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
+      "url": "http://138.59.227.20:8000/play/a06y/index.m3u8?hls"
     },
     {
-      "id": "creo_movies",
-      "name": "CREO MOVIES",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CM",
-      "url": "http://200.123.40.1:8000/play/a05t/index.m3u8"
+      "id": "fox_sports_3_hd",
+      "name": "Fox Sports 3 HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04s/index.m3u8"
     },
     {
-      "id": "creo_tv",
-      "name": "CREO TV",
-      "category": "Variedades / Culto 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CTV",
-      "url": "http://200.123.40.1:8000/play/a05s/index.m3u8"
+      "id": "win_sports_plus_hd",
+      "name": "Win Sports+ HD",
+      "category": "Deportes Internacionales 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/colombia/win-sports-co.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0as/index.m3u8"
     },
     {
-      "id": "canal_estrellas",
-      "name": "Canal de las Estrellas",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04l/index.m3u8"
-    },
-    {
-      "id": "cartoon_network_hd",
-      "name": "Cartoon Network HD",
-      "category": "Infantiles 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a042/index.m3u8"
-    },
-    {
-      "id": "cinecanal_hd",
-      "name": "Cinecanal HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cinecanal-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a043/index.m3u8"
-    },
-    {
-      "id": "comedy_central_hd",
-      "name": "Comedy Central HD",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a044/index.m3u8"
-    },
-    {
-      "id": "comedy_central_hd_alt",
-      "name": "Comedy Central HD (Alt)",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0an/index.m3u8"
-    },
-    {
-      "id": "discovery_channel_hd",
-      "name": "Discovery Channel HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a047/index.m3u8"
-    },
-    {
-      "id": "discovery_hh_hd",
-      "name": "Discovery H&H HD",
-      "category": "Variedades / Culto 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a048/index.m3u8"
-    },
-    {
-      "id": "discovery_kids_hd",
-      "name": "Discovery Kids HD",
-      "category": "Infantiles 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-kids-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0al/index.m3u8"
-    },
-    {
-      "id": "discovery_science",
-      "name": "Discovery Science",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a049/index.m3u8"
-    },
-    {
-      "id": "discovery_theater_hd",
-      "name": "Discovery Theater HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04a/index.m3u8"
-    },
-    {
-      "id": "discovery_turbo",
-      "name": "Discovery Turbo",
-      "category": "Automovilismo 🇦🇷 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-turbo-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04b/index.m3u8"
-    },
-    {
-      "id": "discovery_world_hd",
-      "name": "Discovery World HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04c/index.m3u8"
-    },
-    {
-      "id": "discovery_world_hd_alt",
-      "name": "Discovery World HD (Alt)",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0aw/index.m3u8"
-    },
-    {
-      "id": "disney_channel_hd",
-      "name": "Disney Channel HD",
-      "category": "Infantiles 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-channel-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04d/index.m3u8"
-    },
-    {
-      "id": "disney_junior",
-      "name": "Disney Junior",
-      "category": "Infantiles 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-junior-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04e/index.m3u8"
-    },
-    {
-      "id": "e_entertainment",
-      "name": "E! Entertainment",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/e-entertainment-television-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04f/index.m3u8"
-    },
-    {
-      "id": "epicrise",
-      "name": "EPICRISE",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EP",
-      "url": "http://200.123.40.1:8000/play/a05x/index.m3u8"
-    },
-    {
-      "id": "eventos_1_hd",
-      "name": "Eventos 1 HD",
-      "category": "Eventos / Otros 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV1",
-      "url": "http://200.123.40.1:8000/play/a04m/index.m3u8"
-    },
-    {
-      "id": "eventos_2_hd",
-      "name": "Eventos 2 HD",
-      "category": "Eventos / Otros 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV2",
-      "url": "http://200.123.40.1:8000/play/a04n/index.m3u8"
-    },
-    {
-      "id": "famichannels",
-      "name": "FAMICHANNELS",
-      "category": "Entretenimiento 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=FC",
-      "url": "http://200.123.40.1:8000/play/a061/index.m3u8"
-    },
-    {
-      "id": "fx_hd",
-      "name": "FX HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fx-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04o/index.m3u8"
-    },
-    {
-      "id": "film_arts_hd",
-      "name": "Film & Arts HD",
-      "category": "Variedades / Culto 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/film-and-arts-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a04p/index.m3u8"
+      "id": "volver",
+      "name": "Volver",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/volver"
     },
     {
       "id": "hbo_1",
       "name": "HBO 1",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04t/index.m3u8"
     },
     {
       "id": "hbo_2",
       "name": "HBO 2",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04u/index.m3u8"
     },
     {
+      "id": "hbo_hd",
+      "name": "HBO HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0av/index.m3u8"
+    },
+    {
       "id": "hbo_family",
       "name": "HBO Family",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04v/index.m3u8"
     },
     {
       "id": "hbo_family_hd",
       "name": "HBO Family HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05m/index.m3u8"
     },
     {
-      "id": "hbo_hd",
-      "name": "HBO HD",
-      "category": "Películas y Series 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0av/index.m3u8"
-    },
-    {
       "id": "hbo_mundi",
       "name": "HBO Mundi",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04w/index.m3u8"
     },
     {
       "id": "hbo_pop",
       "name": "HBO POP",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-pop-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04x/index.m3u8"
     },
     {
       "id": "hbo_plus",
       "name": "HBO Plus",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04y/index.m3u8"
     },
     {
       "id": "hbo_signature",
       "name": "HBO Signature",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a04z/index.m3u8"
     },
     {
       "id": "hbo_xtreme",
       "name": "HBO Xtreme",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a050/index.m3u8"
     },
     {
       "id": "hbo_xtreme_hd",
       "name": "HBO Xtreme HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05l/index.m3u8"
     },
     {
-      "id": "hei_hd",
-      "name": "HEI HD",
-      "category": "Musica 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HEI",
-      "url": "http://200.123.40.1:8000/play/a0aq/index.m3u8"
+      "id": "amc_hd",
+      "name": "AMC HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0at/index.m3u8"
     },
     {
-      "id": "hero_max",
-      "name": "HERO MAX",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HM",
-      "url": "http://200.123.40.1:8000/play/a05z/index.m3u8"
+      "id": "amc_series_hd",
+      "name": "AMC Series HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-series-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a03z/index.m3u8"
     },
     {
-      "id": "history_1_hd",
-      "name": "History 1 HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a051/index.m3u8"
+      "id": "atres_series_hd",
+      "name": "Atres Series HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/atreseries-es.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0ar/index.m3u8"
     },
     {
-      "id": "history_2",
-      "name": "History 2",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-2-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a052/index.m3u8"
+      "id": "cinecanal_hd",
+      "name": "Cinecanal HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cinecanal-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a043/index.m3u8"
     },
     {
-      "id": "las_estrellas_hd",
-      "name": "Las Estrellas HD",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05k/index.m3u8"
-    },
-    {
-      "id": "nat_geo_hd",
-      "name": "Nat Geo HD",
-      "category": "Documentales 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/national-geographic-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a053/index.m3u8"
-    },
-    {
-      "id": "old_movies",
-      "name": "OLD MOVIES",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=OLD",
-      "url": "http://200.123.40.1:8000/play/a05u/index.m3u8"
-    },
-    {
-      "id": "petgo",
-      "name": "PETGO",
-      "category": "Variedades / Culto 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=PET",
-      "url": "http://200.123.40.1:8000/play/a062/index.m3u8"
-    },
-    {
-      "id": "pakapaka",
-      "name": "Pakapaka",
-      "category": "Infantiles 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/pakapaka-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a05i/index.m3u8"
-    },
-    {
-      "id": "quantum",
-      "name": "QUAMTUN",
-      "category": "Variedades / Culto 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=QT",
-      "url": "http://200.123.40.1:8000/play/a05y/index.m3u8"
-    },
-    {
-      "id": "scare_movies",
-      "name": "SCARE MOVIES",
-      "category": "Películas y Series 2",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=SCARE",
-      "url": "http://200.123.40.1:8000/play/a05v/index.m3u8"
-    },
-    {
-      "id": "sony_hd",
-      "name": "Sony HD",
-      "category": "Entretenimiento 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-sony-ar.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a055/index.m3u8"
+      "id": "fx_hd",
+      "name": "FX HD",
+      "category": "Películas y Series 🎬",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fx-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04o/index.m3u8"
     },
     {
       "id": "sony_movies_hd",
       "name": "Sony Movies HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-movies-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a056/index.m3u8"
     },
     {
       "id": "space_hd",
       "name": "Space HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a057/index.m3u8"
     },
     {
       "id": "star_channel_hd",
       "name": "Star Channel HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-channel-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a058/index.m3u8"
     },
     {
       "id": "studio_universal",
       "name": "Studio Universal",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/studio-universal-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a059/index.m3u8"
     },
     {
       "id": "tnt_novelas_hd",
       "name": "TNT Novelas HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-novelas-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05a/index.m3u8"
     },
     {
       "id": "tnt_series_hd",
       "name": "TNT Series HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05c/index.m3u8"
     },
     {
       "id": "tnt_series_hd_alt",
       "name": "TNT Series HD (Alt)",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a0au/index.m3u8"
     },
     {
       "id": "universal_channel_hd",
       "name": "UNIVERSAL CHANNEL HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a0ap/index.m3u8"
     },
     {
       "id": "universal_hd",
       "name": "Universal HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05g/index.m3u8"
     },
     {
       "id": "warner_channel_hd",
       "name": "Warner Channel HD",
-      "category": "Películas y Series 2",
+      "category": "Películas y Series 🎬",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/warner-channel-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05f/index.m3u8"
     },
     {
-      "id": "win_sports_plus_hd",
-      "name": "Win Sports+ HD",
-      "category": "Deportes 🌎 2",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/colombia/win-sports-co.png?raw=true",
-      "url": "http://200.123.40.1:8000/play/a0as/index.m3u8"
+      "id": "cowboy",
+      "name": "COWBOY",
+      "category": "Películas y Series 🎬",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CW",
+      "url": "http://200.123.40.1:8000/play/a05w/index.m3u8"
+    },
+    {
+      "id": "creo_movies",
+      "name": "CREO MOVIES",
+      "category": "Películas y Series 🎬",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CM",
+      "url": "http://200.123.40.1:8000/play/a05t/index.m3u8"
+    },
+    {
+      "id": "old_movies",
+      "name": "OLD MOVIES",
+      "category": "Películas y Series 🎬",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=OLD",
+      "url": "http://200.123.40.1:8000/play/a05u/index.m3u8"
+    },
+    {
+      "id": "scare_movies",
+      "name": "SCARE MOVIES",
+      "category": "Películas y Series 🎬",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=SCARE",
+      "url": "http://200.123.40.1:8000/play/a05v/index.m3u8"
+    },
+    {
+      "id": "garage_tv",
+      "name": "El Garage TV",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true",
+      "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+    },
+    {
+      "id": "encuentro",
+      "name": "Encuentro",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/encuentro"
+    },
+    {
+      "id": "animal_planet_hd",
+      "name": "Animal Planet HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05p/index.m3u8"
+    },
+    {
+      "id": "discovery_channel_hd",
+      "name": "Discovery Channel HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a047/index.m3u8"
+    },
+    {
+      "id": "discovery_science",
+      "name": "Discovery Science",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a049/index.m3u8"
+    },
+    {
+      "id": "discovery_theater_hd",
+      "name": "Discovery Theater HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04a/index.m3u8"
+    },
+    {
+      "id": "discovery_turbo",
+      "name": "Discovery Turbo",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-turbo-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04b/index.m3u8"
+    },
+    {
+      "id": "discovery_world_hd",
+      "name": "Discovery World HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04c/index.m3u8"
+    },
+    {
+      "id": "discovery_world_hd_alt",
+      "name": "Discovery World HD (Alt)",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0aw/index.m3u8"
+    },
+    {
+      "id": "history_1_hd",
+      "name": "History 1 HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a051/index.m3u8"
+    },
+    {
+      "id": "history_2",
+      "name": "History 2",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a052/index.m3u8"
+    },
+    {
+      "id": "nat_geo_hd",
+      "name": "Nat Geo HD",
+      "category": "Documentales y Motor 🌍",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/national-geographic-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a053/index.m3u8"
+    },
+    {
+      "id": "el_gourmet",
+      "name": "El Gourmet",
+      "category": "Estilo de Vida y Cocina 🍳",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true",
+      "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+    },
+    {
+      "id": "el_gourmet_hd",
+      "name": "El Gourmet HD",
+      "category": "Estilo de Vida y Cocina 🍳",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-gourmet-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0ao/index.m3u8"
+    },
+    {
+      "id": "discovery_hh_hd",
+      "name": "Discovery H&H HD",
+      "category": "Estilo de Vida y Cocina 🍳",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a048/index.m3u8"
+    },
+    {
+      "id": "ciudad_magazine",
+      "name": "Ciudad Magazine",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/ciudad_magazine"
+    },
+    {
+      "id": "ae_hd",
+      "name": "A&E HD",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ae-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a03y/index.m3u8"
+    },
+    {
+      "id": "canal_estrellas",
+      "name": "Canal de las Estrellas",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04l/index.m3u8"
+    },
+    {
+      "id": "las_estrellas_hd",
+      "name": "Las Estrellas HD",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05k/index.m3u8"
+    },
+    {
+      "id": "comedy_central_hd",
+      "name": "Comedy Central HD",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a044/index.m3u8"
+    },
+    {
+      "id": "comedy_central_hd_alt",
+      "name": "Comedy Central HD (Alt)",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0an/index.m3u8"
+    },
+    {
+      "id": "e_entertainment",
+      "name": "E! Entertainment",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/e-entertainment-television-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04f/index.m3u8"
+    },
+    {
+      "id": "film_arts_hd",
+      "name": "Film & Arts HD",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/film-and-arts-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04p/index.m3u8"
+    },
+    {
+      "id": "creo_tv",
+      "name": "CREO TV",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CTV",
+      "url": "http://200.123.40.1:8000/play/a05s/index.m3u8"
+    },
+    {
+      "id": "epicrise",
+      "name": "EPICRISE",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EP",
+      "url": "http://200.123.40.1:8000/play/a05x/index.m3u8"
+    },
+    {
+      "id": "famichannels",
+      "name": "FAMICHANNELS",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=FC",
+      "url": "http://200.123.40.1:8000/play/a061/index.m3u8"
+    },
+    {
+      "id": "hero_max",
+      "name": "HERO MAX",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HM",
+      "url": "http://200.123.40.1:8000/play/a05z/index.m3u8"
+    },
+    {
+      "id": "petgo",
+      "name": "PETGO",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=PET",
+      "url": "http://200.123.40.1:8000/play/a062/index.m3u8"
+    },
+    {
+      "id": "quantum",
+      "name": "QUAMTUN",
+      "category": "Entretenimiento y Variedades ✨",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=QT",
+      "url": "http://200.123.40.1:8000/play/a05y/index.m3u8"
     },
     {
       "id": "warzone",
       "name": "warzone",
-      "category": "Variedades / Culto 2",
+      "category": "Entretenimiento y Variedades ✨",
       "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=WZ",
       "url": "http://200.123.40.1:8000/play/a060/index.m3u8"
     },
     {
+      "id": "pakapaka",
+      "name": "Pakapaka",
+      "category": "Infantiles 👶",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/pakapaka-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05i/index.m3u8"
+    },
+    {
+      "id": "cartoon_network_hd",
+      "name": "Cartoon Network HD",
+      "category": "Infantiles 👶",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a042/index.m3u8"
+    },
+    {
+      "id": "discovery_kids_hd",
+      "name": "Discovery Kids HD",
+      "category": "Infantiles 👶",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-kids-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0al/index.m3u8"
+    },
+    {
+      "id": "disney_channel_hd",
+      "name": "Disney Channel HD",
+      "category": "Infantiles 👶",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04d/index.m3u8"
+    },
+    {
+      "id": "disney_junior",
+      "name": "Disney Junior",
+      "category": "Infantiles 👶",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-junior-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04e/index.m3u8"
+    },
+    {
       "id": "prueba_musictop",
       "name": "Music Top",
-      "category": "prueba 🧪",
+      "category": "Música 🎵",
       "logo": "https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200",
       "url": "https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
+      "id": "hei_hd",
+      "name": "HEI HD",
+      "category": "Música 🎵",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HEI",
+      "url": "http://200.123.40.1:8000/play/a0aq/index.m3u8"
+    },
+    {
+      "id": "eventos_1_hd",
+      "name": "Eventos 1 HD",
+      "category": "Eventos / Otros 📺",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV1",
+      "url": "http://200.123.40.1:8000/play/a04m/index.m3u8"
+    },
+    {
+      "id": "eventos_2_hd",
+      "name": "Eventos 2 HD",
+      "category": "Eventos / Otros 📺",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV2",
+      "url": "http://200.123.40.1:8000/play/a04n/index.m3u8"
+    },
+    {
       "id": "prueba_redbull",
       "name": "Redbull TV (Deportes Extremos)",
-      "category": "prueba 🧪",
+      "category": "Pruebas 🧪",
       "logo": "https://graph.facebook.com/RedBull/picture?width=200&height=200",
       "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
     },
     {
       "id": "dazn_1",
       "name": "DAZN 1",
-      "category": "prueba 🧪",
+      "category": "Pruebas 🧪",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true",
       "url": "http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8"
     },
     {
       "id": "dazn_f1",
       "name": "DAZN F1 (Fórmula 1)",
-      "category": "prueba 🧪",
+      "category": "Pruebas 🧪",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
       "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "id": "prueba_gentv",
+      "name": "GEN TV",
+      "category": "Pruebas 🧪",
+      "logo": "https://graph.facebook.com/gentvoficial/picture?width=200&height=200",
+      "url": "https://videohd.live:19360/8010/8010.m3u8"
     }
   ],
   "movies": [
