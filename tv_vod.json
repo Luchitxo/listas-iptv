@@ -320,6 +320,594 @@
       "category": "prueba 🧪",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
       "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "id": "ae_hd",
+      "name": "A&E HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ae-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a03y/index.m3u8"
+    },
+    {
+      "id": "adult_swim_hd",
+      "name": "Adult Swim HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/adult-swim-lam.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a040/index.m3u8"
+    },
+    {
+      "id": "amc_hd",
+      "name": "AMC HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0at/index.m3u8"
+    },
+    {
+      "id": "amc_series_hd",
+      "name": "AMC Series HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-series-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a03z/index.m3u8"
+    },
+    {
+      "id": "america_tv_hd",
+      "name": "América TV HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a041/index.m3u8"
+    },
+    {
+      "id": "animal_planet_hd",
+      "name": "Animal Planet HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/animal-planet-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05p/index.m3u8"
+    },
+    {
+      "id": "atres_series_hd",
+      "name": "Atres Series HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/atreseries-es.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0ar/index.m3u8"
+    },
+    {
+      "id": "cowboy",
+      "name": "COWBOY",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CW",
+      "url": "http://200.123.40.1:8000/play/a05w/index.m3u8"
+    },
+    {
+      "id": "creo_movies",
+      "name": "CREO MOVIES",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CM",
+      "url": "http://200.123.40.1:8000/play/a05t/index.m3u8"
+    },
+    {
+      "id": "creo_tv",
+      "name": "CREO TV",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=CTV",
+      "url": "http://200.123.40.1:8000/play/a05s/index.m3u8"
+    },
+    {
+      "id": "canal_estrellas",
+      "name": "Canal de las Estrellas",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04l/index.m3u8"
+    },
+    {
+      "id": "cartoon_network_hd",
+      "name": "Cartoon Network HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cartoon-network-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a042/index.m3u8"
+    },
+    {
+      "id": "cinecanal_hd",
+      "name": "Cinecanal HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cinecanal-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a043/index.m3u8"
+    },
+    {
+      "id": "comedy_central_hd",
+      "name": "Comedy Central HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a044/index.m3u8"
+    },
+    {
+      "id": "comedy_central_hd_alt",
+      "name": "Comedy Central HD (Alt)",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0an/index.m3u8"
+    },
+    {
+      "id": "dsports_1_ar",
+      "name": "DSports 1 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a045/index.m3u8"
+    },
+    {
+      "id": "dsports_2_ar",
+      "name": "DSports 2 HD",
+      "category": "Prueba 2",
+      "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
+      "url": "http://200.123.40.1:8000/play/a046/index.m3u8"
+    },
+    {
+      "id": "discovery_channel_hd",
+      "name": "Discovery Channel HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a047/index.m3u8"
+    },
+    {
+      "id": "discovery_hh_hd",
+      "name": "Discovery H&H HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a048/index.m3u8"
+    },
+    {
+      "id": "discovery_kids_hd",
+      "name": "Discovery Kids HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-kids-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0al/index.m3u8"
+    },
+    {
+      "id": "discovery_science",
+      "name": "Discovery Science",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a049/index.m3u8"
+    },
+    {
+      "id": "discovery_theater_hd",
+      "name": "Discovery Theater HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04a/index.m3u8"
+    },
+    {
+      "id": "discovery_turbo",
+      "name": "Discovery Turbo",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-turbo-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04b/index.m3u8"
+    },
+    {
+      "id": "discovery_world_hd",
+      "name": "Discovery World HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04c/index.m3u8"
+    },
+    {
+      "id": "discovery_world_hd_alt",
+      "name": "Discovery World HD (Alt)",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0aw/index.m3u8"
+    },
+    {
+      "id": "disney_channel_hd",
+      "name": "Disney Channel HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04d/index.m3u8"
+    },
+    {
+      "id": "disney_junior",
+      "name": "Disney Junior",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/disney-junior-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04e/index.m3u8"
+    },
+    {
+      "id": "e_entertainment",
+      "name": "E! Entertainment",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/e-entertainment-television-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04f/index.m3u8"
+    },
+    {
+      "id": "epicrise",
+      "name": "EPICRISE",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EP",
+      "url": "http://200.123.40.1:8000/play/a05x/index.m3u8"
+    },
+    {
+      "id": "espn_1_hd",
+      "name": "ESPN 1 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04g/index.m3u8"
+    },
+    {
+      "id": "espn_2_hd",
+      "name": "ESPN 2 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04h/index.m3u8"
+    },
+    {
+      "id": "espn_3_hd",
+      "name": "ESPN 3 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04i/index.m3u8"
+    },
+    {
+      "id": "espn_4_hd",
+      "name": "ESPN 4 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-4-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04j/index.m3u8"
+    },
+    {
+      "id": "espn_6_hd",
+      "name": "ESPN 6 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0am/index.m3u8"
+    },
+    {
+      "id": "espn_hd",
+      "name": "ESPN HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05o/index.m3u8"
+    },
+    {
+      "id": "espn_premium_hd",
+      "name": "ESPN Premium HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05n/index.m3u8"
+    },
+    {
+      "id": "espn_premium_hd_alt",
+      "name": "ESPN Premium HD (Alt)",
+      "category": "Prueba 2",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04k/index.m3u8"
+    },
+    {
+      "id": "el_gourmet_hd",
+      "name": "El Gourmet HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-gourmet-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0ao/index.m3u8"
+    },
+    {
+      "id": "eventos_1_hd",
+      "name": "Eventos 1 HD",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV1",
+      "url": "http://200.123.40.1:8000/play/a04m/index.m3u8"
+    },
+    {
+      "id": "eventos_2_hd",
+      "name": "Eventos 2 HD",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EV2",
+      "url": "http://200.123.40.1:8000/play/a04n/index.m3u8"
+    },
+    {
+      "id": "famichannels",
+      "name": "FAMICHANNELS",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=FC",
+      "url": "http://200.123.40.1:8000/play/a061/index.m3u8"
+    },
+    {
+      "id": "fx_hd",
+      "name": "FX HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fx-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04o/index.m3u8"
+    },
+    {
+      "id": "film_arts_hd",
+      "name": "Film & Arts HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/film-and-arts-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04p/index.m3u8"
+    },
+    {
+      "id": "fox_sports_1_hd",
+      "name": "Fox Sports 1 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04q/index.m3u8"
+    },
+    {
+      "id": "fox_sports_2_hd",
+      "name": "Fox Sports 2 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04r/index.m3u8"
+    },
+    {
+      "id": "fox_sports_3_hd",
+      "name": "Fox Sports 3 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04s/index.m3u8"
+    },
+    {
+      "id": "hbo_1",
+      "name": "HBO 1",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04t/index.m3u8"
+    },
+    {
+      "id": "hbo_2",
+      "name": "HBO 2",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04u/index.m3u8"
+    },
+    {
+      "id": "hbo_family",
+      "name": "HBO Family",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04v/index.m3u8"
+    },
+    {
+      "id": "hbo_family_hd",
+      "name": "HBO Family HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05m/index.m3u8"
+    },
+    {
+      "id": "hbo_hd",
+      "name": "HBO HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0av/index.m3u8"
+    },
+    {
+      "id": "hbo_mundi",
+      "name": "HBO Mundi",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04w/index.m3u8"
+    },
+    {
+      "id": "hbo_pop",
+      "name": "HBO POP",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-pop-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04x/index.m3u8"
+    },
+    {
+      "id": "hbo_plus",
+      "name": "HBO Plus",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04y/index.m3u8"
+    },
+    {
+      "id": "hbo_signature",
+      "name": "HBO Signature",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a04z/index.m3u8"
+    },
+    {
+      "id": "hbo_xtreme",
+      "name": "HBO Xtreme",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a050/index.m3u8"
+    },
+    {
+      "id": "hbo_xtreme_hd",
+      "name": "HBO Xtreme HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05l/index.m3u8"
+    },
+    {
+      "id": "hei_hd",
+      "name": "HEI HD",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HEI",
+      "url": "http://200.123.40.1:8000/play/a0aq/index.m3u8"
+    },
+    {
+      "id": "hero_max",
+      "name": "HERO MAX",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=HM",
+      "url": "http://200.123.40.1:8000/play/a05z/index.m3u8"
+    },
+    {
+      "id": "history_1_hd",
+      "name": "History 1 HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a051/index.m3u8"
+    },
+    {
+      "id": "history_2",
+      "name": "History 2",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-2-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a052/index.m3u8"
+    },
+    {
+      "id": "las_estrellas_hd",
+      "name": "Las Estrellas HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/las-estrellas-mx.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05k/index.m3u8"
+    },
+    {
+      "id": "nat_geo_hd",
+      "name": "Nat Geo HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/national-geographic-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a053/index.m3u8"
+    },
+    {
+      "id": "old_movies",
+      "name": "OLD MOVIES",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=OLD",
+      "url": "http://200.123.40.1:8000/play/a05u/index.m3u8"
+    },
+    {
+      "id": "petgo",
+      "name": "PETGO",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=PET",
+      "url": "http://200.123.40.1:8000/play/a062/index.m3u8"
+    },
+    {
+      "id": "pakapaka",
+      "name": "Pakapaka",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/pakapaka-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05i/index.m3u8"
+    },
+    {
+      "id": "quantum",
+      "name": "QUAMTUN",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=QT",
+      "url": "http://200.123.40.1:8000/play/a05y/index.m3u8"
+    },
+    {
+      "id": "scare_movies",
+      "name": "SCARE MOVIES",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=SCARE",
+      "url": "http://200.123.40.1:8000/play/a05v/index.m3u8"
+    },
+    {
+      "id": "sony_hd",
+      "name": "Sony HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-sony-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a055/index.m3u8"
+    },
+    {
+      "id": "sony_movies_hd",
+      "name": "Sony Movies HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-movies-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a056/index.m3u8"
+    },
+    {
+      "id": "space_hd",
+      "name": "Space HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a057/index.m3u8"
+    },
+    {
+      "id": "star_channel_hd",
+      "name": "Star Channel HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a058/index.m3u8"
+    },
+    {
+      "id": "studio_universal",
+      "name": "Studio Universal",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/studio-universal-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a059/index.m3u8"
+    },
+    {
+      "id": "tnt_novelas_hd",
+      "name": "TNT Novelas HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-novelas-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05a/index.m3u8"
+    },
+    {
+      "id": "tnt_series_hd",
+      "name": "TNT Series HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05c/index.m3u8"
+    },
+    {
+      "id": "tnt_series_hd_alt",
+      "name": "TNT Series HD (Alt)",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0au/index.m3u8"
+    },
+    {
+      "id": "tnt_sports_hd",
+      "name": "TNT Sports HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05d/index.m3u8"
+    },
+    {
+      "id": "tnt_sports_premium_hd",
+      "name": "TNT Sports Premium HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05j/index.m3u8"
+    },
+    {
+      "id": "tyc_sports_hd",
+      "name": "TyC Sports HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05e/index.m3u8"
+    },
+    {
+      "id": "universal_channel_hd",
+      "name": "UNIVERSAL CHANNEL HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0ap/index.m3u8"
+    },
+    {
+      "id": "universal_hd",
+      "name": "Universal HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05g/index.m3u8"
+    },
+    {
+      "id": "warner_channel_hd",
+      "name": "Warner Channel HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/warner-channel-ar.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a05f/index.m3u8"
+    },
+    {
+      "id": "win_sports_plus_hd",
+      "name": "Win Sports+ HD",
+      "category": "Prueba 2",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/colombia/win-sports-co.png?raw=true",
+      "url": "http://200.123.40.1:8000/play/a0as/index.m3u8"
+    },
+    {
+      "id": "warzone",
+      "name": "warzone",
+      "category": "Prueba 2",
+      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=WZ",
+      "url": "http://200.123.40.1:8000/play/a060/index.m3u8"
     }
   ],
   "movies": [
