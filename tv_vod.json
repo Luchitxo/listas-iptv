@@ -259,20 +259,6 @@
       "url": "http://138.59.227.20:8000/play/a07f/index.m3u8?hls"
     },
     {
-      "id": "dazn_1",
-      "name": "DAZN 1",
-      "category": "Deportes",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true",
-      "url": "http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8"
-    },
-    {
-      "id": "dazn_f1",
-      "name": "DAZN F1",
-      "category": "Automovilismo 🇪🇸",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
-      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
-    },
-    {
       "id": "el_gourmet",
       "name": "El Gourmet",
       "category": "Cocina 🇦🇷",
@@ -280,70 +266,6 @@
       "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
     },
     {
-      "id": "el_chavo",
-      "name": "24/7 El Chavo del Ocho",
-      "category": "24/7 - Comedia",
-      "logo": "https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg",
-      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts"
-    },
-    {
-      "id": "el_auto_fantastico",
-      "name": "El Auto Fantastico 24/7",
-      "category": "24/7 - Series",
-      "logo": "https://i.ytimg.com/vi/MjBPgtte4s4/hqdefault.jpg",
-      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/575631.ts"
-    },
-    {
-      "id": "los_magnificos",
-      "name": "Los Magnificos 24/7",
-      "category": "24/7 VIP",
-      "logo": "https://n9.cl/4w72j",
-      "url": "http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526450.m3u8"
-    },
-    {
-      "id": "macgyver",
-      "name": "MacGyver 24/7",
-      "category": "24/7 - Series",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-V0pWEzGIN4I6yJntwsmq8zGMZ3uJjaQhQ&s",
-      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/615841.ts"
-    },
-    {
-      "id": "los_tres_chiflados",
-      "name": "Los 3 chiflados 24/7",
-      "category": "24/7 - Comedia",
-      "logo": "https://i.pinimg.com/236x/b3/72/03/b372030a2a0cfa41d21d6faf62db6bbb.jpg",
-      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/737501.ts"
-    },
-    {
-      "id": "inspector_gadget",
-      "name": "Inspector Gadget 24/7",
-      "category": "24/7 VIP",
-      "logo": "https://n9.cl/4w72j",
-      "url": "http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526515.m3u8"
-    },
-    {
-      "id": "la_pantera_rosa",
-      "name": "La Pantera Rosa 24/7",
-      "category": "24/7",
-      "logo": "https://n9.cl/4w72j",
-      "url": "http://planettvweb.com:8091/live/ContiaAbella/Cintia638/17765.m3u8"
-    },
-    {
-      "id": "sbt_brasil",
-      "name": "SBT (Brasil)",
-      "category": "Brasil 🇧🇷",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sbt-br.png?raw=true",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
-    },
-    {
-      "id": "las_estrellas",
-      "name": "Las Estrellas",
-      "category": "Mexico MX",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/250px-Las_Estrellas_logo_%282016%29.svg.png",
-      "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal"
-    }
-  ],
-  {
       "id": "prueba_diario26",
       "name": "Diario 26",
       "category": "prueba 🧪",
@@ -379,32 +301,39 @@
       "url": "https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
     },
     {
-      "id": "prueba_dazn_f1",
-      "name": "DAZN F1 (Fórmula 1)",
-      "category": "prueba 🧪",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
-      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
-    },
-    {
       "id": "prueba_redbull",
       "name": "Redbull TV (Deportes Extremos)",
       "category": "prueba 🧪",
       "logo": "https://graph.facebook.com/RedBull/picture?width=200&height=200",
       "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    },
+    {
+      "id": "dazn_1",
+      "name": "DAZN 1",
+      "category": "prueba 🧪",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8"
+    },
+    {
+      "id": "dazn_f1",
+      "name": "DAZN F1 (Fórmula 1)",
+      "category": "prueba 🧪",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
     }
   ],
   "movies": [
     {
       "id": "101",
-      "title": "Big Buck Bunny",
+      "title": "Big Buck Bunny (Prueba Oficial HLS)",
       "year": "2008",
       "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
       "backdrop": "https://images.unsplash.com/photo-1536440136628-849c177e76a1",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     },
     {
       "id": "102",
-      "title": "Tears of Steel",
+      "title": "Tears of Steel (Blender Foundation)",
       "year": "2012",
       "poster": "https://peach.blender.org/wp-content/uploads/title-smaller.jpg",
       "backdrop": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba",
@@ -412,7 +341,7 @@
     },
     {
       "id": "103",
-      "title": "Sintel",
+      "title": "Sintel (Animación)",
       "year": "2010",
       "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg",
       "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
