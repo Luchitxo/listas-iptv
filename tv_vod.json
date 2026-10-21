@@ -343,6 +343,56 @@
       "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal"
     }
   ],
+  {
+      "id": "prueba_diario26",
+      "name": "Diario 26",
+      "category": "prueba 🧪",
+      "logo": "https://graph.facebook.com/canal26/picture?width=200&height=200",
+      "url": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"
+    },
+    {
+      "id": "prueba_musictop",
+      "name": "Music Top",
+      "category": "prueba 🧪",
+      "logo": "https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200",
+      "url": "https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
+    },
+    {
+      "id": "prueba_gentv",
+      "name": "GEN TV",
+      "category": "prueba 🧪",
+      "logo": "https://graph.facebook.com/gentvoficial/picture?width=200&height=200",
+      "url": "https://videohd.live:19360/8010/8010.m3u8"
+    },
+    {
+      "id": "prueba_13max",
+      "name": "13 Max",
+      "category": "prueba 🧪",
+      "logo": "https://i.imgur.com/VuvGm3s.png",
+      "url": "http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8"
+    },
+    {
+      "id": "prueba_cpetv",
+      "name": "CPEtv",
+      "category": "prueba 🧪",
+      "logo": "https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",
+      "url": "https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8"
+    },
+    {
+      "id": "prueba_dazn_f1",
+      "name": "DAZN F1 (Fórmula 1)",
+      "category": "prueba 🧪",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "id": "prueba_redbull",
+      "name": "Redbull TV (Deportes Extremos)",
+      "category": "prueba 🧪",
+      "logo": "https://graph.facebook.com/RedBull/picture?width=200&height=200",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    }
+  ],
   "movies": [
     {
       "id": "101",
