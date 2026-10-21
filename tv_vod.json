@@ -36,109 +36,327 @@
       "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
     },
     {
-      "id": "bloomberg",
-      "name": "Bloomberg TV",
-      "category": "Noticias",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bloomberg_Television_logo.svg",
-      "url": "https://bloomberg.com/media-manifest/streams/etf-us.m3u8"
+      "id": "a24",
+      "name": "A24",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/A24/index.m3u8"
     },
     {
-      "id": "tve_24h",
-      "name": "Canal 24 Horas (TVE)",
-      "category": "Noticias",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal_24_Horas_%28España%29_logo_2008.svg",
-      "url": "https://rtve-live.edgesuite.net/tve/24h/index.m3u8"
+      "id": "america_tv",
+      "name": "América TV",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true",
+      "url": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8"
     },
     {
-      "id": "dw_english",
-      "name": "DW English HD",
-      "category": "Noticias",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DW_Logo_2019.svg",
-      "url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@129856/master.m3u8"
+      "id": "tv_publica",
+      "name": "TV Pública",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png",
+      "url": "http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8"
     },
     {
-      "id": "aunar",
-      "name": "Aunar",
-      "category": "Argentina - Variedades",
-      "logo": "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png",
-      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8"
-    },
-    {
-      "id": "cinear",
-      "name": "Cine.AR",
-      "category": "Argentina - Cine",
-      "logo": "https://i.imgur.com/RPLyrIC.png",
-      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
-    },
-    {
-      "id": "tectv",
-      "name": "Tec TV",
-      "category": "Argentina - Ciencia",
-      "logo": "https://i.imgur.com/EGCq1wc.png",
-      "url": "https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8"
-    },
-    {
-      "id": "deportv",
-      "name": "DeporTV",
-      "category": "Argentina - Deportes",
-      "logo": "https://i.imgur.com/iyYLNRt.png",
-      "url": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
-    },
-    {
-      "id": "canal26",
-      "name": "Canal 26",
-      "category": "Argentina - Noticias",
-      "logo": "https://i.imgur.com/5pAaVih.png",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
-    },
-    {
-      "id": "perfiltv",
-      "name": "+Perfil",
-      "category": "Argentina - Noticias",
-      "logo": "https://i.imgur.com/3wZdPwN.png",
-      "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8"
-    },
-    {
-      "id": "telemax",
-      "name": "Telemax",
-      "category": "Argentina - Música",
-      "logo": "https://i.imgur.com/gfX0hdB.png",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
-    },
-    {
-      "id": "nettv",
-      "name": "Net TV",
-      "category": "Argentina - Entretenimiento",
-      "logo": "https://i.imgur.com/EWmshtx.png",
-      "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
-    },
-    {
-      "id": "tvuniversidad",
-      "name": "TV Universidad",
-      "category": "Argentina - Universitario",
-      "logo": "https://i.imgur.com/tvLHiAT.png",
-      "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+      "id": "tn",
+      "name": "TN",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true",
+      "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Referer": "https://tn.com.ar/envivo/24hs"
+      }
     },
     {
       "id": "eltrece",
       "name": "El Trece",
-      "category": "Argentina - Aire",
-      "logo": "https://i.imgur.com/ZK7AQFg.png",
-      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://vodgc.net"
+      }
     },
     {
-      "id": "elnuove",
+      "id": "eltres_tv",
+      "name": "El Tres TV",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://tvlogo.org/argentina/eltres-tv-ar.png",
+      "url": "https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8"
+    },
+    {
+      "id": "rts",
+      "name": "RTS",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://rtsmedios.com.ar/wp-content/uploads/2025/01/logo_rtsw.png",
+      "url": "https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8"
+    },
+    {
+      "id": "lanacion_plus",
+      "name": "LN+",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true",
+      "url": "http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8"
+    },
+    {
+      "id": "canal26",
+      "name": "Canal 26",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+    },
+    {
+      "id": "cronica_tv",
+      "name": "Crónica TV",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHcronicatv.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/cronica/index.m3u8"
+    },
+    {
+      "id": "el_nueve",
       "name": "El Nueve",
-      "category": "Argentina - Aire",
-      "logo": "https://i.imgur.com/EtcVSm4.png",
-      "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8"
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/elnueve/index.m3u8"
     },
     {
-      "id": "america",
-      "name": "América",
-      "category": "Argentina - Aire",
-      "logo": "https://i.imgur.com/Jt7dOQm.png",
-      "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+      "id": "net_tv",
+      "name": "Net TV",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true",
+      "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+    },
+    {
+      "id": "garage_tv",
+      "name": "Garage TV",
+      "category": "Automovilismo 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true",
+      "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+    },
+    {
+      "id": "encuentro",
+      "name": "Encuentro",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/encuentro"
+    },
+    {
+      "id": "ciudad_magazine",
+      "name": "Ciudad Magazine",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/ciudad_magazine"
+    },
+    {
+      "id": "volver",
+      "name": "Volver",
+      "category": "Argentina 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/volver"
+    },
+    {
+      "id": "espn_1",
+      "name": "ESPN 1",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",
+      "url": "http://195.178.110.110/espn/index.m3u8"
+    },
+    {
+      "id": "espn_2",
+      "name": "ESPN 2",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8"
+    },
+    {
+      "id": "espn_3",
+      "name": "ESPN 3",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/espn_3_hd"
+    },
+    {
+      "id": "espn_4",
+      "name": "ESPN 4",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/espn_4_hd"
+    },
+    {
+      "id": "espn_5",
+      "name": "ESPN 5",
+      "category": "Deportes 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true",
+      "url": "http://191.97.49.82:8001/play/a002/index.m3u8"
+    },
+    {
+      "id": "espn_6",
+      "name": "ESPN 6",
+      "category": "Deportes 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true",
+      "url": "http://190.61.42.218:9000/play/a062/index.m3u8"
+    },
+    {
+      "id": "espn_7",
+      "name": "ESPN 7",
+      "category": "Deportes 🌎",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true",
+      "url": "http://181.78.12.119:16123/play/ch20/index.m3u8"
+    },
+    {
+      "id": "espn_premium",
+      "name": "ESPN Premium",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8"
+    },
+    {
+      "id": "tnt_sports",
+      "name": "TNT Sports Premium",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
+      "url": "http://181.209.105.115:2525/play/tntsports/index.m3u8"
+    },
+    {
+      "id": "dsports_1",
+      "name": "DSports 1",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/dsports_hd"
+    },
+    {
+      "id": "dsports_2",
+      "name": "DSports 2",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
+      "url": "http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8"
+    },
+    {
+      "id": "dsports_plus",
+      "name": "DSports +",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true",
+      "url": "http://195.178.110.110/dsportsplus/index.m3u8"
+    },
+    {
+      "id": "fox_sports",
+      "name": "Fox Sports",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
+      "url": "http://181.209.80.115:8000/play/fox_sports_hd"
+    },
+    {
+      "id": "fox_sports_2",
+      "name": "Fox Sports 2",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",
+      "url": "http://45.188.229.33:8000/play/a1ae/index.m3u8?hls"
+    },
+    {
+      "id": "fox_sports_3",
+      "name": "Fox Sports 3",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",
+      "url": "http://138.59.227.20:8000/play/a06y/index.m3u8?hls"
+    },
+    {
+      "id": "tyc_sports",
+      "name": "TyC Sports (Op. 1)",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true",
+      "url": "http://38.44.109.41:8003/play/a02l/index.m3u8"
+    },
+    {
+      "id": "deportv",
+      "name": "DeporTV",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true",
+      "url": "http://138.59.227.20:8000/play/a07f/index.m3u8?hls"
+    },
+    {
+      "id": "dazn_1",
+      "name": "DAZN 1",
+      "category": "Deportes",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8"
+    },
+    {
+      "id": "dazn_f1",
+      "name": "DAZN F1",
+      "category": "Automovilismo 🇪🇸",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true",
+      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "id": "el_gourmet",
+      "name": "El Gourmet",
+      "category": "Cocina 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true",
+      "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+    },
+    {
+      "id": "el_chavo",
+      "name": "24/7 El Chavo del Ocho",
+      "category": "24/7 - Comedia",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg",
+      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts"
+    },
+    {
+      "id": "el_auto_fantastico",
+      "name": "El Auto Fantastico 24/7",
+      "category": "24/7 - Series",
+      "logo": "https://i.ytimg.com/vi/MjBPgtte4s4/hqdefault.jpg",
+      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/575631.ts"
+    },
+    {
+      "id": "los_magnificos",
+      "name": "Los Magnificos 24/7",
+      "category": "24/7 VIP",
+      "logo": "https://n9.cl/4w72j",
+      "url": "http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526450.m3u8"
+    },
+    {
+      "id": "macgyver",
+      "name": "MacGyver 24/7",
+      "category": "24/7 - Series",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-V0pWEzGIN4I6yJntwsmq8zGMZ3uJjaQhQ&s",
+      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/615841.ts"
+    },
+    {
+      "id": "los_tres_chiflados",
+      "name": "Los 3 chiflados 24/7",
+      "category": "24/7 - Comedia",
+      "logo": "https://i.pinimg.com/236x/b3/72/03/b372030a2a0cfa41d21d6faf62db6bbb.jpg",
+      "url": "http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/737501.ts"
+    },
+    {
+      "id": "inspector_gadget",
+      "name": "Inspector Gadget 24/7",
+      "category": "24/7 VIP",
+      "logo": "https://n9.cl/4w72j",
+      "url": "http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526515.m3u8"
+    },
+    {
+      "id": "la_pantera_rosa",
+      "name": "La Pantera Rosa 24/7",
+      "category": "24/7",
+      "logo": "https://n9.cl/4w72j",
+      "url": "http://planettvweb.com:8091/live/ContiaAbella/Cintia638/17765.m3u8"
+    },
+    {
+      "id": "sbt_brasil",
+      "name": "SBT (Brasil)",
+      "category": "Brasil 🇧🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sbt-br.png?raw=true",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+    },
+    {
+      "id": "las_estrellas",
+      "name": "Las Estrellas",
+      "category": "Mexico MX",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/250px-Las_Estrellas_logo_%282016%29.svg.png",
+      "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal"
     }
   ],
   "movies": [
