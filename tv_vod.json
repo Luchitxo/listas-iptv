@@ -1,20 +1,6 @@
 {
   "channels": [
     {
-      "id": "2",
-      "name": "Red Bull TV",
-      "category": "Deportes y Acción",
-      "logo": "https://images.redbull.com/rbcom/v1/graphql/app/redbulltv_logo.png",
-      "url": "https://rbmn-live.akamaized.net/hls/live/590964/redbull-tv-app/master.m3u8"
-    },
-    {
-      "id": "3",
-      "name": "France 24 English",
-      "category": "Noticias",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/France_24_logo.svg",
-      "url": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
-    },
-    {
   "id": "telefe_vivo",
   "name": "Telefe En Vivo",
   "category": "Televisión",
