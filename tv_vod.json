@@ -479,13 +479,6 @@
       "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
     },
     {
-      "id": "encuentro",
-      "name": "(NO ANDA) Encuentro",
-      "category": "Documentales y Motor 🌍",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/encuentro"
-    },
-    {
       "id": "animal_planet_hd",
       "name": "Animal Planet HD",
       "category": "Documentales y Motor 🌍",
