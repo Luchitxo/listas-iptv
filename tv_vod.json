@@ -12,23 +12,6 @@
       }
     },
     {
-      "id": "a24_alt",
-      "name": "A24 (1080p) [Alt]",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true",
-      "url": "http://138.59.227.20:8000/play/a05u/index.m3u8"
-    },
-    {
-      "id": "tyc_sports_direct",
-      "name": "TyC Sports (1080p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
-      "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-      }
-    },
-    {
       "id": "america_tv_hd",
       "name": "América TV HD",
       "category": "Canales de Aire 🇦🇷",
@@ -96,6 +79,13 @@
       "url": "http://45.134.141.161:2200/ARG/A24/index.m3u8"
     },
     {
+      "id": "a24_alt",
+      "name": "A24 (1080p) [Alt]",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true",
+      "url": "http://138.59.227.20:8000/play/a05u/index.m3u8"
+    },
+    {
       "id": "lanacion_plus",
       "name": "LN+",
       "category": "Noticias 🇦🇷",
@@ -143,6 +133,16 @@
       "category": "Deportes 🇦🇷",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05e/index.m3u8"
+    },
+    {
+      "id": "tyc_sports_direct",
+      "name": "TyC Sports (1080p)",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tyc-sports-ar.png?raw=true",
+      "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+      }
     },
     {
       "id": "deportv",
