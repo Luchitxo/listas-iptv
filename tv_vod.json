@@ -8,13 +8,6 @@
       "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
     },
     {
-      "id": "tn_alt",
-      "name": "TN (1080p) [Alt]",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true",
-      "url": "http://158.172.155.130:8000/play/a0dp/index.m3u8"
-    },
-    {
       "id": "a24_alt",
       "name": "A24 (1080p) [Alt]",
       "category": "pruebaCanalesArriba",
@@ -30,143 +23,6 @@
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
       }
-    },
-    {
-      "id": "europa_europa",
-      "name": "Europa Europa (1080p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=EE",
-      "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8"
-    },
-    {
-      "id": "volver",
-      "name": "Volver (576p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=VOL",
-      "url": "http://138.121.113.175:8000/play/a04r/index.m3u8"
-    },
-    {
-      "id": "quiero_musica",
-      "name": "Quiero Música en mi Idioma (1080p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=QM",
-      "url": "http://158.172.155.130:8000/play/a00a/index.m3u8"
-    },
-    {
-      "id": "canal_8_mardelplata",
-      "name": "Canal 8 Mar del Plata (720p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=C8",
-      "url": "https://canal8mdq.unpocodeawita.workers.dev/"
-    },
-    {
-      "id": "litus_tv",
-      "name": "Litus TV (720p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=LIT",
-      "url": "https://edge.enhdtv.com/litustv/index.m3u8"
-    },
-    {
-      "id": "santa_fe_canal",
-      "name": "Santa Fe Canal (1080p)",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=SFC",
-      "url": "https://canalsantaferts.argtelemax.workers.dev/"
-    },
-    {
-      "id": "xtrema_cine_clasico",
-      "name": "Xtrema Cine Clasico",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=XCC",
-      "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
-      "headers": {
-        "Referer": "https://xtrematv.com/?p=1460"
-      }
-    },
-    {
-      "id": "xtrema_terror",
-      "name": "Xtrema Terror",
-      "category": "pruebaCanalesArriba",
-      "logo": "https://images.weserv.nl/?url=via.placeholder.com/150/161B22/FFFFFF?text=XT",
-      "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
-      "headers": {
-        "Referer": "https://xtrematv.com/?p=1456"
-      }
-    },
-    {
-      "id": "telefe_rosario",
-      "name": "Telefe Rosario (720p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
-    },
-    {
-      "id": "telefe_tucuman",
-      "name": "Telefe Tucuman (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
-    },
-    {
-      "id": "telefe_salta",
-      "name": "Telefe Salta (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://canal11saltatv.unpocodeawita.workers.dev/"
-    },
-    {
-      "id": "telefe_ar",
-      "name": "Telefe AR (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
-    },
-    {
-      "id": "telefe_internacionaal",
-      "name": "Telefe Internnacionaal (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://200.115.120.1:8000/play/ca016/index.m3u8"
-    },
-    {
-      "id": "telefe_buenos_aires",
-      "name": "Telefe Buenos Aires (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
-    },
-    {
-      "id": "telefe_interior",
-      "name": "Telefe Interior (720p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
-    },
-    {
-      "id": "telefe_internacionalDos",
-      "name": "Telefe InternacionalDos (576p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://190.108.83.69:8000/play/a08l/index.m3u8"
-    },
-    {
-      "id": "telefe_vivooo",
-      "name": "Telefe En Vivooo",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/88ab5e15-fe50-47d4-8ede-a8fb817ff069:ATL/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?aid=69dfb44d09ecc98dc876969f&uid=vmAvBBNAwKKd2SexwsT6vdDtX4nuNiCf&sid=zq6DGmwQLXzAplAwlUQ2ZoJxcAJ1pNAL&pid=YWMLUBO6G9Nt5aSbcBW9JNZxhWQJh7CT&pid_dvr=AVhI9ywfspkcWU8sQRaazm3zLsHAPPTM&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=1MprpT33RcGZldL8YFLFZWTySKDcdsVqxt7K6vO24rQXV1AY5Eh92MhJkYqBYNEAFefI6Ke1QjQ&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D24000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22YWMLUBO6G9Nt5aSbcBW9JNZxhWQJh7CT%22&adInsertionGoogleStreamId=88ab5e15-fe50-47d4-8ede-a8fb817ff069%3AATL&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1792886195409&ot=jVypSGiCuJqPf9CDuhIFBw&proto=https&pz=us",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
-    },
-    {
-      "id": "telefe_2",
-      "name": "Telefe 2 (Alternativo)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://i.imgur.com/wrZfMXn.png",
-      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
     },
     {
       "id": "america_tv_hd",
@@ -220,6 +76,13 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Referer": "https://tn.com.ar/envivo/24hs"
       }
+    },
+    {
+      "id": "tn_alt",
+      "name": "TN (1080p) [Alt]",
+      "category": "Noticias 🇦🇷",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true",
+      "url": "http://158.172.155.130:8000/play/a0dp/index.m3u8"
     },
     {
       "id": "a24",
