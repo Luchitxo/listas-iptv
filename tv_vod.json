@@ -1,6 +1,13 @@
 {
   "channels": [
     {
+      "id": "telefe_vivo_prueba",
+      "name": "Telefe Vivo Prueba",
+      "category": "PruebaCanalesArriba",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
+    },
+    {
       "id": "tn_alt",
       "name": "TN (1080p) [Alt]",
       "category": "pruebaCanalesArriba",
