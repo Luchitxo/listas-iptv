@@ -101,7 +101,7 @@
     },
     {
       "id": "espn_premium_hd",
-      "name": "ESPN Premium HD",
+      "name": "[NO AUDIO] ESPN Premium HD",
       "category": "Deportes 🇦🇷",
       "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05n/index.m3u8"
@@ -122,7 +122,7 @@
     },
     {
       "id": "tnt_sports_premium_hd",
-      "name": "TNT Sports Premium HD",
+      "name": "[NO AUDIO] TNT Sports Premium HD",
       "category": "Deportes 🇦🇷",
       "logo": "https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",
       "url": "http://200.123.40.1:8000/play/a05j/index.m3u8"
@@ -202,14 +202,14 @@
     },
     {
       "id": "espn_5",
-      "name": "ESPN 5",
+      "name": "[NO AUDIO] ESPN 5",
       "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true",
       "url": "http://191.97.49.82:8001/play/a002/index.m3u8"
     },
     {
       "id": "espn_6",
-      "name": "ESPN 6",
+      "name": "[NO AUDIO] ESPN 6",
       "category": "Deportes Internacionales 🌎",
       "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true",
       "url": "http://190.61.42.218:9000/play/a062/index.m3u8"
@@ -229,25 +229,11 @@
       "url": "http://181.78.12.119:16123/play/ch20/index.m3u8"
     },
     {
-      "id": "dsports_1",
-      "name": "(NO ANDA) DSports 1",
-      "category": "Deportes Internacionales 🌎",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/dsports_hd"
-    },
-    {
       "id": "dsports_2",
       "name": "DSports 2",
       "category": "Deportes Internacionales 🌎",
       "logo": "https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",
       "url": "http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8"
-    },
-    {
-      "id": "fox_sports",
-      "name": "(NO ANDA) Fox Sports",
-      "category": "Deportes Internacionales 🌎",
-      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",
-      "url": "http://181.209.80.115:8000/play/fox_sports_hd"
     },
     {
       "id": "fox_sports_1_hd",
