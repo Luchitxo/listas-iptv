@@ -92,11 +92,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_tucuman",
@@ -104,11 +99,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_salta",
@@ -116,11 +106,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "https://canal11saltatv.unpocodeawita.workers.dev/"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_ar",
@@ -128,11 +113,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_internacionaal",
@@ -140,11 +120,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "http://200.115.120.1:8000/play/ca016/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_buenos_aires",
@@ -152,11 +127,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_interior",
@@ -164,11 +134,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_internacionalDos",
@@ -176,11 +141,6 @@
       "category": "Canales de",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
       "url": "http://190.108.83.69:8000/play/a08l/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "telefe_vivooo",
@@ -200,11 +160,6 @@
       "category": "Canales de Aire 🇦🇷",
       "logo": "https://i.imgur.com/wrZfMXn.png",
       "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.telefe.com/",
-        "Origin": "https://www.mitelefe.com/"
-      }
     },
     {
       "id": "america_tv_hd",
