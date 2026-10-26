@@ -1,6 +1,62 @@
 {
   "channels": [
     {
+      "id": "telefe_rosario",
+      "name": "Telefe Rosario (720p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
+    },
+    {
+      "id": "telefe_tucuman",
+      "name": "Telefe Tucuman (1080p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
+    },
+    {
+      "id": "telefe_salta",
+      "name": "Telefe Salta (1080p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "https://canal11saltatv.unpocodeawita.workers.dev/"
+    },
+    {
+      "id": "telefe_ar",
+      "name": "Telefe AR (1080p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
+    },
+    {
+      "id": "telefe_internacionaal",
+      "name": "Telefe Internnacionaal (1080p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://200.115.120.1:8000/play/ca016/index.m3u8"
+    },
+    {
+      "id": "telefe_buenos_aires",
+      "name": "Telefe Buenos Aires (1080p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
+    },
+    {
+      "id": "telefe_interior",
+      "name": "Telefe Interior (720p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
+    },
+    {
+      "id": "telefe_internacionalDos",
+      "name": "Telefe InternacionalDos (576p)",
+      "category": "Canales de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
+      "url": "http://190.108.83.69:8000/play/a08l/index.m3u8"
+    },
+    {
       "id": "telefe_vivooo",
       "name": "Telefe En Vivooo",
       "category": "Canales de Aire 🇦🇷",
@@ -11,62 +67,6 @@
         "Referer": "https://www.telefe.com/",
         "Origin": "https://www.mitelefe.com/"
       }
-    },
-    {
-      "id": "telefe_rosario",
-      "name": "Telefe Rosario (720p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
-    },
-    {
-      "id": "telefe_tucuman",
-      "name": "Telefe Tucuman (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
-    },
-    {
-      "id": "telefe_salta",
-      "name": "Telefe Salta (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "https://canal11saltatv.unpocodeawita.workers.dev/"
-    },
-    {
-      "id": "telefe_ar",
-      "name": "Telefe AR (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://45.173.231.22:8000/play/a053/index.m3u8"
-    },
-    {
-      "id": "telefe_internacionaal",
-      "name": "Telefe Internnacionaal (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://200.115.120.1:8000/play/ca016/index.m3u8"
-    },
-    {
-      "id": "telefe_buenos_aires",
-      "name": "Telefe Buenos Aires (1080p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
-    },
-    {
-      "id": "telefe_interior",
-      "name": "Telefe Interior (720p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8"
-    },
-    {
-      "id": "telefe_internacionalDos",
-      "name": "Telefe InternacionalDos (576p)",
-      "category": "Canales de Aire 🇦🇷",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefe_2018.svg/512px-Telefe_2018.svg.png",
-      "url": "http://190.108.83.69:8000/play/a08l/index.m3u8"
     },
     {
       "id": "telefe_2",
