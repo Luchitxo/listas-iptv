@@ -100,6 +100,13 @@
       "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
     },
     {
+     "id": "espn_2_2",
+      "name": "ESPN 2 2",
+      "category": "Deportes 🇦🇷",
+      "logo": "https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",
+      "url": "https://futbollibreplay.org/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+    },
+    {
       "id": "espn_premium_hd",
       "name": "[NO AUDIO] ESPN Premium HD",
       "category": "Deportes 🇦🇷",
